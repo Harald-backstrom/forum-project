@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f0f0f0;
+}
+div {
+  background: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+input,
+textarea {
+  width: 100%;
+  margin-top: 5px;
+}
+button {
+  margin-top: 10px;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
